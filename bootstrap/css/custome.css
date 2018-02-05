@@ -15,7 +15,7 @@ img{
 	margin: 0 auto;
 	width: 150px;
 	height: 150px;
-	transform: rotate(180deg);
+	-moz-transform: rotate(180deg);
 	box-shadow: 1px 1px 10px #fff;
 }
 
