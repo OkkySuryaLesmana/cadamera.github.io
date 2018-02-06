@@ -19,12 +19,12 @@ body{
 
 img{
 	width: 50%;
-	height: 20%;
+	height: 50%;
 }
 
 .insta{
 	transform: rotate(180deg);
-	height: 20%;
+	height: 50%;
 }
 
 .col-md-4{
@@ -96,7 +96,7 @@ li{
 }
 
 .form{
-	width: 10%;
+	width: 20%;
 	margin: 0 auto;
 }
 
