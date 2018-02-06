@@ -11,7 +11,7 @@ body{
 
 .about{
 	background: #000;
-	width: 350px;
+	width: 15%;
 	padding: 20px;
 	margin: 0 auto;
 	border-radius: 10px;
@@ -86,7 +86,7 @@ li{
 	color: #000; 
 	background: #fff; 
 	padding: 20px; 
-	width: 320px;
+	width: 15%;
 	margin: 0 auto;
 	border-radius: 10px;
 }
