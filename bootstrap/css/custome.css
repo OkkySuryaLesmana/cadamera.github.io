@@ -22,7 +22,8 @@ img{
 }
 
 .insta{
-	transform: rotate(180deg);
+	-moz-transform: rotate(180deg);
+	-webkit-transform: rotate(180deg);
 	height: 100%;
 }
 
