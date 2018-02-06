@@ -18,12 +18,13 @@ body{
 }
 
 img{
-	width: 150px;
+	width: 50%;
+	height: 20%;
 }
 
 .insta{
 	transform: rotate(180deg);
-	height: 150px;
+	height: 20%;
 }
 
 .col-md-4{
